@@ -12,7 +12,7 @@ server:
 spring:
   profiles: sentence
 server:
-  port: 8050
+  port: 8020
 words: NotApplicable
 
 ---
